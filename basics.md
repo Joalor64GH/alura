@@ -6,6 +6,7 @@
 * /i/ as in *see*
 * /ɪ/ as in *bit*
 * /ɛ/ as in *bed*
+* /ɑ/ as in *father*
 * /æ/ as in *cat*
 * /ə/ as in *sofa*
 * /ʌ/ as in *cup*
