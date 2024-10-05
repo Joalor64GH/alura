@@ -1,19 +1,20 @@
 # Numbering System
-Əlura uses a base 5 numbering system.
+I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering system.
 
-**KIND OF SUCKS AT THE MOMENT. WILL IMPROVE LATER ON.**
+## Basic Numbers
+| English      | Əlura                   |
+| :----------: | :---------------------: |
+| zero         | oʒɛɹ                    |
+| one          | ʌn                      |
+| two          | ðʊ                      |
+| three        | θɛ                      |
+| four         | fɑɹ                     |
+| five         | fiθ                     |
+| six          | fiθ-ʌn (five and one)   |
+| seven        | fiθ-ðʊ (five and two)   |
+| eight        | fiθɹɛ (five and three)  |
+| nine         | fiθ-fɑɹ (five and four) |
+| ten          | ʌnʒɛ (one and zero)     |
 
-## Chart
-| Base-10      | Base-5       | Əlura        |
-| :----------: | :----------: | :----------: |
-| 0            | 0            | zʊɹ          |
-| 1            | 1            | ʌn           |
-| 2            | 2            | ðʊ           |
-| 3            | 3            | θe           |
-| 4            | 4            | fɑɹ          |
-| 5            | 10           | ðɛŋ          |
-| 6            | 11           | ðɛŋ-ʌn       |
-| 7            | 12           | ðɛŋ-ðʊ       |
-| 8            | 13           | ðɛŋ-θe       |
-| 9            | 14           | ðɛŋ-fɑɹ      |
-| 10           | 20           | ivosɪ        |
+## Beyond 10
+**WORK IN PROGRESS**

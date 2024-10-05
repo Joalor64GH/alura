@@ -1,7 +1,9 @@
 # Grammar
 **TO BE MADE**
 
-This conlang will use OSV (Object-Subject-Verb)
+This conlang will use OSV (Object-Subject-Verb).
 
-For example: <br>
-I have water in SVO becomes Water I have in OSV.
+What I mean:
+* SVO - Subject-Verb-Object (I have water.)
+* SOV - Subject-Object-Verb (I water have.)
+* OSV - Object-Subject-Verb (Water I have.) <!-- okay yoda -->

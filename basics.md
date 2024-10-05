@@ -4,6 +4,7 @@ It also has its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
+Also, if you're only writing the actual letters, everything has to be in lowercase. <br>
 Each symbol is represented by its respective letter. See more below.
 
 ## Letters
