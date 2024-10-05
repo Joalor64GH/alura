@@ -1,5 +1,10 @@
 # Əlura Basics
-Əlura uses only soft sounds in the English IPA. They are listed below.
+Əlura uses only soft sounds in the English IPA. <br>
+It also has its own special writing system.
+
+![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
+
+Each symbol is represented by its respective letter. See more below.
 
 ## Letters
 ### Vowels
@@ -31,4 +36,8 @@
 * /w/ as in *we*
 * /j/ as in *yes*
 
-There is more info but I'll add it later because I'm lazy.
+## Tilde and Macron
+The tilde (`~`) is used to lengthen the sound of a letter. <br>
+The macron (`-`) is used to combine two words, but also, the last letter of the first word and the first letter of the second word have to be quickly and simultaneously pronounced.
+
+WILL ADD EXAMPLES LATER
