@@ -1,18 +1,19 @@
 # Numbering System
 Əlura uses a base 5 numbering system.
 
+**KIND OF SUCKS AT THE MOMENT. WILL IMPROVE LATER ON.**
+
 ## Chart
-(The Third column will remain empty until actual words are added)
 | Base-10      | Base-5       | Əlura        |
-| :----------: | :----------: | :----------: | 
-| 0            | 0            |              |
-| 1            | 1            |              |
-| 2            | 2            |              |
-| 3            | 3            |              |
-| 4            | 4            |              |
-| 5            | 10           |              |
-| 6            | 11           |              |
-| 7            | 12           |              |
-| 8            | 13           |              |
-| 9            | 14           |              |
-| 10           | 20           |              |
+| :----------: | :----------: | :----------: |
+| 0            | 0            | zʊɹ          |
+| 1            | 1            | ʌn           |
+| 2            | 2            | ðʊ           |
+| 3            | 3            | θe           |
+| 4            | 4            | fɑɹ          |
+| 5            | 10           | ðɛŋ          |
+| 6            | 11           | ðɛŋ-ʌn       |
+| 7            | 12           | ðɛŋ-ðʊ       |
+| 8            | 13           | ðɛŋ-θe       |
+| 9            | 14           | ðɛŋ-fɑɹ      |
+| 10           | 20           | ivosɪ        |
