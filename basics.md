@@ -8,13 +8,13 @@ Each symbol is represented by its respective letter. See more below.
 
 ## Letters
 ### Consonants
-|                        | Bilabial  | Labiodental | Dental    | Alveolar  | Palato-alveolar      | Velar | Labial-velar | Palatal |
+|                        | Bilabial  | Labiodental | Dental    | Alveolar  | Palato-alveolar   | Velar | Labial-velar | Palatal |
 | :-------------         | :-------: | :---------: | :-------: | :-------: | :---------------: | :---: | :----------: | :-----: |
 | Nasal                  | m         |             |           | n         |                   | ŋ     |              |         |
 | Fricative              |           | f, v        | θ, ð      | s, z      | ʃ, ʒ              |       |              |         |
 | Affricate              |           |             |           |           | t͡ʃ, d͡ʒ            |       |              |         |
-| Approximant            |           |             |           | ɹ      |                   |       | w            | j       |
-| Lateral Approximant    |           |             |           | l      |                   |       |            |       |
+| Approximant            |           |             |           | ɹ         |                   |       | w            | j       |
+| Lateral Approximant    |           |             |           | l         |                   |       |              |         |
 
 * /f/ as in *fish*
 * /v/ as in *van*
