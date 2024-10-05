@@ -26,8 +26,8 @@ wɔs - How
 ## Pronouns
 * jʌ - I, me, mine
 * ɛ - You, yours
-* sæ - He, him, his, itits (masc)
-* sɪ - She, her, hers, itits (fem)
+* sæ - He, him, his, it/its (masc)
+* sɪ - She, her, hers, it/its (fem)
 * t͡ʃi - We, us, ours
 * ʃu - You all, yours (plural)
 * ʃɑ - They, them, theirs
