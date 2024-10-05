@@ -3,7 +3,7 @@
 
 ## Pronouns
 * /jʌ/ - I, me, mine
-* /e/ - You, yours
+* /ɛ/ - You, yours
 * /sæ/ - He, him, his, it/its (masc)
 * /sɪ/ - She, her, hers, it/its (fem)
 * /t͡ʃi/ - We, us, ours
