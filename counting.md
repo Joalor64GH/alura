@@ -1,10 +1,10 @@
 # Numbering System
 I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering system.
 
-## Basic Numbers
+## Basic Numbers (0-10)
 | English      | Əlura                   |
 | :----------: | :---------------------: |
-| zero         | oʒɛɹ                    |
+| zero         | ɔʒɛɹ                    |
 | one          | ʌn                      |
 | two          | ðʊ                      |
 | three        | θɛ                      |

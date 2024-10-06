@@ -5,23 +5,23 @@
 The spelling of most words here are based off of random languages I find interesting (but mostly Greek).
 
 ## Basic Words
-i - And
-wɛ - With
-oʒɛɹ - No, Nothing, Zero
-næm - Yes
-ɛin - To be
-ovæ - To have
-ɑŋ - To do
-ju - To go
-ɑvlɑ - To say
-jɪð - Good
-mæl - Bad
-ʃɛ - What
-ɔu - Where
-ɑwɑn - When
-ʃijɛ - Who
-jaði - Why
-wɔs - How
+* i - And
+* wɛ - With
+* ɔʒɛɹ - No, Nothing, Zero
+* næm - Yes
+* ɛin - To be
+* ɔvæ - To have
+* ɑŋ - To do
+* ju - To go
+* ɑvlɑ - To say
+* jɪð - Good
+* mæl - Bad
+* ʃɛ - What
+* ɔu - Where
+* ɑwɑn - When
+* ʃijɛ - Who
+* jaði - Why
+* wɔs - How
 
 ## Pronouns
 * jʌ - I, me, mine
