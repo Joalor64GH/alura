@@ -1,4 +1,4 @@
-# Numbering System
+# Counting
 I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering system.
 
 ## Basic Numbers (0-10)
