@@ -20,7 +20,7 @@ I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering syst
 For numbers past ten, you have to follow this structure: <br>
 ʌnʒɛ (ten) + i (and) + [number]
 
-So for eleven, it would be ʌnʒɛi-ðʊ (one and zero and two). <br>
+So for twelve, it would be ʌnʒɛi-ðʊ (one and zero and two). <br>
 This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 
 | English       | Əlura                   |
