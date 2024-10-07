@@ -17,4 +17,23 @@ I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering syst
 | ten          | ʌnʒɛ (one and zero)     |
 
 ## Beyond 10
-**WORK IN PROGRESS**
+For numbers past ten, you have to follow this structure: <br>
+ʌnʒɛ (one and zero) + i (and) + [number]
+
+So for eleven, it would be ʌnʒɛi-ðʊ (one and zero and two). <br>
+This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
+
+| English      | Əlura                   |
+| :----------: | :---------------------: |
+| eleven       | ʌnʒɛi-ʌn                |
+| twelve       | ʌnʒɛi-ðʊ                |
+| thirteen     | ʌnʒɛi-θɛ                |
+| twenty       | ðʊʒɛ                    |
+| thirty       | θɛʒɛ                    |
+| fourty       | fɑɹʒɛ                   |
+| fifty        | fiʒɛ                    |
+| sixty        | ʌnfiʒɛ                  |
+| seventy      | ðʊfiʒɛ                  |
+| eighty       | θɛfiʒɛ                  |
+| ninety       | fɑɹfiʒɛ                 |
+| hundred      | ðivlʌnʒɛ (double ten)   |
