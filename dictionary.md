@@ -4,49 +4,76 @@
 The spelling of most words here are based off of random languages I find interesting (but mostly Greek).
 
 ## ɑ
+* ɑnt͡ʃuɹ - Man
 * ɑŋ - To do
 * ɑvlɑ - To say
 * ɑwɑn - When
+* ɑ~si - Star
 
 ## æ
-* WIP
+* æjɛ~ɹu - Air
+* æzul - Blue
+* æw - Red
+* ænɛji - Year
 
 ## ð
-* WIP
+* ðiju - Earth, ground
+* ðɛ - In
+* ðu - Black
 
 ## d͡ʒ
-* WIP
+* d͡ʒin - To give
 
 ## ɛ
-* ɛ - You, yours
+* ɛ~ið - Because
 * ɛin - To be
+* ɛ - You, yours
 
 ## f
-* WIP
+* fɹiɛ - Cold
+* fʊɹu - Fire, hot
+* fu - To know
 
 ## i
 * i - And
+* imuɹ - Day
 
 ## ɪ
-* WIP
+* ɪɹʊ - Color
+* ɪliɑws - Sun
 
 ## j
 * jɪð - Good
 * jʌ - I, me, mine
 * ju - To go
 * jaði - Why
+* jinɑwɑ - Woman
+* jil - Yellow
 
 ## l
-* WIP
+* lun - Moon
+* liwʌ - Wide
 
 ## m
 * mæl - Bad
+* mɛ~ɑ - Big, large
+* mɑʃi - If
+* mɪ~ɔ - Small, tiny
 
 ## n
+* niʃi - Long
+* nəvɔu - New
+* nu~ðæ - Night
 * næm - Yes
 
+## ŋ
+* ŋizu - To think
+
 ## ɔ
+* ɔnɑmi - Name
 * ɔʒɛɹ - No, Nothing, Zero
+* ɔɹɛn - Orange
+* ɔsɔ - That
 * ɔvæ - To have
 * ɔu - Where
 
@@ -54,12 +81,15 @@ The spelling of most words here are based off of random languages I find interes
 * WIP
 
 ## s
+* sɑ - At
 * sæ - He, him, his, it/its (masc)
 * sɪ - She, her, hers, it/its (fem)
+* suwɑɹ - Sky
 
 ## ʃ
 * ʃɑ - They, them, theirs
 * ʃɛ - What
+* ʃiɹ - White
 * ʃijɛ - Who
 * ʃu - You all, yours (plural)
 
@@ -76,10 +106,13 @@ The spelling of most words here are based off of random languages I find interes
 * WIP
 
 ## u
-* WIP
+* umɔ - Cloud
+* u~ji - Old
+* ul - This
+* uŋwæ - To hear
 
 ## ʌ
-* WIP
+* ʌ~l - All
 
 ## ʊ
 * WIP
@@ -88,10 +121,13 @@ The spelling of most words here are based off of random languages I find interes
 * WIP
 
 ## v
-* WIP
+* vɛɹu - Green
+* vɪsuɹɔ - To see
+* vil - Violet, Purple
 
 ## w
 * wɔs - How
+* wæɹ - Water
 * wɛ - With
 
 ## z

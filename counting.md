@@ -47,4 +47,4 @@ This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 Of course, it's the same thing beyond one hundred and so on.
 
 For example, the structure for 420 would be: <br>
-fɑɹ (four) ʌnʒɛðivl (hundred) + i (and) + ðʊʒɛ (twenty)
+fɑɹ (four) + ʌnʒɛðivl (hundred) + i (and) + ðʊʒɛ (twenty)
