@@ -8,6 +8,14 @@ Also, if you're only writing the actual letters, everything has to be in lowerca
 Each symbol is represented by its respective letter. See more below.
 
 ## Letters
+Note: Check out [ipachart.com](https://www.ipachart.com/) to hear how each letter sounds.
+
+This language has 17 consonants:
+* ð, d͡ʒ, f, j, l, m, n, ŋ, ɹ, s, ʃ, ʒ, t͡ʃ, θ, v, w, z
+
+And 10 vowels:
+* ɑ, æ, ɛ, i, ɪ, ɔ, u, ʌ, ʊ, ə
+
 ### Consonants
 |                        | Bilabial  | Labiodental | Dental    | Alveolar  | Palato-alveolar   | Velar | Labial-velar | Palatal |
 | :-------------         | :-------: | :---------: | :-------: | :-------: | :---------------: | :---: | :----------: | :-----: |

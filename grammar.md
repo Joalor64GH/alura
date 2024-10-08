@@ -9,14 +9,17 @@ This conlang uses OSV (Object-Subject-Verb). <!-- okay yoda -->
     * "wæɹ" is water
     * "ɔvæ" is have
     * "mi" is I or me
-* "ðʊ ʊvʊsus ɛjɛi əɹ" | There are two animals.
+* "ðʊ ðʊvɑsus ɛjɛi əɹ" | There are two animals.
     * "ðʊ" is two
-    * "ʊvʊsus" is animals
+    * "ðʊvɑsus" is animals
     * "ɛjɛi" is there
     * "əɹ" is are
 
 ## Prefixes
 * "nɔu-" - The equivalent of "non-" in English
+    * Example: "nɔu-iŋɑn" means "Non-human"
+* "mɛu-" - Indicating a higher degree
+    * Example: "mɛu-ðɑns" means "Many thanks" (Literal meaning: very thanks)
 
 ## Suffixes
 * "-s" - Indicates more than one / plural

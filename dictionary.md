@@ -11,16 +11,18 @@
 * æjɛ~ɹu - Air
 * æmɛɹij - America
 * æzul - Blue
+* æðu - Goodbye
 * æw - Red
 * æjun - Some
 * ævɛ - With
 * ænɛji - Year
 
 ## ð
-* ðu - Black
+* ðʊvɑsu - Animal
 * ðʌvl - Double
 * ðiju - Earth, ground
 * ðɛ - In
+* ðɑns - Thanks
 * ðʌɹɪn - To drink
 
 ## d͡ʒ
@@ -32,6 +34,7 @@
 * ɛm - Am
 * ɛɹt͡ʃɛ - Because
 * ɛŋlɑ - English
+* ɛɹv - Grass
 * ɛjɑ - Here
 * ɛs - Is
 * ɛjɛi - There
@@ -43,6 +46,8 @@
 * fɛmuli - Female, girl, woman
 * fju - Few
 * fʊɹu - Fire, hot
+* flʊɹæ - Flower
+* fɹi~zu - To freeze
 * fʊl - Full
 * fu~ɑ - Wow!
 
@@ -52,34 +57,44 @@
 * imuɹ - Day
 * ifu - If
 * in - In
+* isu~jɑ - To need
 * iɛn - When
 * i~uɑ - You, yours
 
 ## ɪ
 * ɪɹʊ - Color
+* ɪsəs - Maybe
 
 ## j
+* jisʊ - By
 * jæmʃi - To walk
 * jaði - Why
 * jil - Yellow
 * jɑ - Yes, correct
 
 ## l
+* lɛ - House, home
+* lævʊ - Love
 * lun - Moon
 * lɛŋɔ - Language
+* lif - Leaf
 * livi - Sad
+* lɛ~v - To stand
 * liwʌ - Wide
 
 ## m
 * mæl - Bad
+* miæu - Cat
 * mɛ~ɑ - Big, large
-* mɑwʒ - To eat
-* mæsuli - Male, boy, man
 * mi - I, me, mine
+* mæsuli - Male, boy, man
+* mʊlði - Many, multiple
 * mɪ~ɔ - Small, tiny
-* mʊlði - Many
+* mɑwʒ - To eat
+* mɛu - Very
 
 ## n
+* nʊwɑɹu - Black
 * niʃi - Long
 * nəvɔu - New
 * nu~ðæ - Night
@@ -91,6 +106,7 @@
 
 ## ŋ
 * ŋizu - To think
+* ŋɛ~u - Please, pleading
 
 ## ɔ
 * ɔnɑmi - Name
@@ -110,19 +126,23 @@
 * sul - Sun
 * sɛvɛi - To know
 * sɑjɛ - To say
+* si~z - To sit
 
 ## ʃ
+* ʃæɔu - Sharp, ability to cut
 * ʃɛ - What
-* ʃiɹ - White
 
 ## ʒ
 * ʒɛniðæɹ - Parent
+* ʒɔ - Which
 
 ## t͡ʃ
 * t͡ʃi - Who
+* t͡ʃɔsu - World
 
 ## θ
 * θʊɛ~i - The
+* θilu - To want
 
 ## u
 * umɔ - Cloud
@@ -139,7 +159,7 @@
 * ʌmis - To count
 
 ## ʊ
-* ʊvʊsu - Animal
+* ʊn - An
 * ʊθuɹ - Other
 
 ## ə
@@ -154,13 +174,17 @@
 * vɪsuɹɔ - To see
 * vil - Violet, Purple
 * vɔ~is - Voice
+* vit͡ʃu - White
 * vus - You all, yours (plural)
 
 ## w
+* wuf - Dog
 * wiɛ~u - How
 * wæɹ - Water, wet
 * wɔʊ - Where
+* wuilu - Will
 * winzu - Wind
 
 ## z
+* zɔu - Did
 * zʊ~ɹmi - To sleep
