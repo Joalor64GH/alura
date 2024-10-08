@@ -4,7 +4,7 @@ Also because I wanted to copy someone else.
 
 ---
 
-## Learn Əlura
+### Learn Əlura
 * [Basics](./basics.md)
 * [Counting](./counting.md)
 * [Dictionary](./dictionary.md)

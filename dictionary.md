@@ -1,10 +1,10 @@
 # Dictionary
-**WORK IN PROGRESS**
-
 The spelling of most words here are based off of random languages I find interesting (but mostly Greek).
 
 ## ɑ
-* ɑnt͡ʃuɹ - Man
+* ɑuɔ - From
+* ɑlɔu - Greeting (informal)
+* ɑvi - Happy
 * ɑŋ - To do
 * ɑvlɑ - To say
 * ɑwɑn - When
@@ -12,7 +12,9 @@ The spelling of most words here are based off of random languages I find interes
 
 ## æ
 * æjɛ~ɹu - Air
+* æmɛɹij - America
 * æzul - Blue
+* æɹiθ - Number
 * æw - Red
 * ænɛji - Year
 
@@ -22,21 +24,31 @@ The spelling of most words here are based off of random languages I find interes
 * ðu - Black
 
 ## d͡ʒ
+* d͡ʒɑsə - Age
+* d͡ʒuɹɪ - Dry
 * d͡ʒin - To give
 
 ## ɛ
+* ɛm - Am
 * ɛ~ið - Because
+* ɛŋlɑ - English
+* ɛjɑ - Here
+* ɛjɛi - There
 * ɛin - To be
-* ɛ - You, yours
+* ɛs - Is
 
 ## f
 * fɹiɛ - Cold
+* fɛmuli - Female, girl, woman
 * fʊɹu - Fire, hot
 * fu - To know
 
 ## i
 * i - And
+* ifu - If
 * imuɹ - Day
+* iŋɑn - Human
+* i~uɑ - You, yours
 
 ## ɪ
 * ɪɹʊ - Color
@@ -44,46 +56,48 @@ The spelling of most words here are based off of random languages I find interes
 
 ## j
 * jɪð - Good
-* jʌ - I, me, mine
-* ju - To go
+* jæmʃi - To walk
 * jaði - Why
-* jinɑwɑ - Woman
 * jil - Yellow
+* jɑ - Yes, correct
 
 ## l
 * lun - Moon
+* lɛŋɔ - Language
+* livi - Sad
 * liwʌ - Wide
 
 ## m
 * mæl - Bad
 * mɛ~ɑ - Big, large
-* mɑʃi - If
+* mæsuli - Male, boy, man
+* mi - I, me, mine
 * mɪ~ɔ - Small, tiny
 
 ## n
 * niʃi - Long
 * nəvɔu - New
 * nu~ðæ - Night
-* næm - Yes
+* njɛð - No, incorrect
+* nul - Nothing
 
 ## ŋ
 * ŋizu - To think
 
 ## ɔ
 * ɔnɑmi - Name
-* ɔʒɛɹ - No, Nothing, Zero
 * ɔɹɛn - Orange
 * ɔsɔ - That
 * ɔvæ - To have
 * ɔu - Where
 
 ## ɹ
-* WIP
+* ɹɑd͡ʒi - Angry, rage
 
 ## s
 * sɑ - At
-* sæ - He, him, his, it/its (masc)
-* sɪ - She, her, hers, it/its (fem)
+* sælu - Greeting (formal)
+* sʊɹɛ - It, its, it's
 * suwɑɹ - Sky
 
 ## ʃ
@@ -94,19 +108,17 @@ The spelling of most words here are based off of random languages I find interes
 * ʃu - You all, yours (plural)
 
 ## ʒ
-* WIP
-
-## ʒ
-* WIP
+* ʒɛniðæɹ - Parent
 
 ## t͡ʃ
 * t͡ʃi - We, us, ours
 
 ## θ
-* WIP
+* θʊɛ~i - The
 
 ## u
 * umɔ - Cloud
+* uɹu - To come
 * u~ji - Old
 * ul - This
 * uŋwæ - To hear
@@ -115,20 +127,25 @@ The spelling of most words here are based off of random languages I find interes
 * ʌ~l - All
 
 ## ʊ
-* WIP
+* ʊvʊsu - Animal
 
 ## ə
-* WIP
+* əɹ - Are
+* ənʌm - He, him, his
+* ənɪf - She, her, hers
 
 ## v
 * vɛɹu - Green
+* væ~ð - Time
+* vʊɹ - To go
 * vɪsuɹɔ - To see
 * vil - Violet, Purple
+* vɔs - Voice
 
 ## w
 * wɔs - How
-* wæɹ - Water
+* wæɹ - Water, wet
 * wɛ - With
 
 ## z
-* WIP
+* zʊ~ɹ - To sleep
