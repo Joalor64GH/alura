@@ -58,4 +58,5 @@ Each symbol is represented by its respective letter. See more below.
 
 ---
 
-Usually, the tilde (`~`) is used to nasalize a sound, but in Əlura, it's used to lengthen the sound of a letter.
+The tilde (`~`) is used to lengthen the sound of a letter.
+* In many languages, it's used to nasalize a sound.
