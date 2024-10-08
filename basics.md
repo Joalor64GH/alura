@@ -58,5 +58,4 @@ Each symbol is represented by its respective letter. See more below.
 
 ---
 
-The tilde (`~`) is used to lengthen the sound of a letter. <br>
-The macron (`-`) is used to combine two words, but also, the last letter of the first word and the first letter of the second word have to be quickly and simultaneously pronounced.
+Usually, the tilde (`~`) is used to nasalize a sound, but in Əlura, it's used to lengthen the sound of a letter.

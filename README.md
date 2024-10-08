@@ -1,6 +1,7 @@
 # Əlura
 A simple conlang I wanted to make because I felt like it. <br>
-Also because I wanted to copy someone else.
+I'll constantly add on to this when I can, because it's fun. <br>
+Also, I am pretty new to this, so feel free to give some feedback or whatever!
 
 ---
 

@@ -36,15 +36,15 @@ This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 | seventy       | ðʊfiʒɛ                  |
 | eighty        | θɛfiʒɛ                  |
 | ninety        | fɑɹfiʒɛ                 |
-| one hundred   | ʌnʒɛðivl (ten-ten)      |
-| two hundred   | ðʊʒɛðivl (two-ten-ten)  |
-| six hundred   | ʌnfiʒɛðivl              |
-| seven hundred | ðʊfiʒɛðivl              |
-| eight hundred | θɛfiʒɛðivl              |
-| nine hundred  | fɑɹfiʒɛðivl             |
+| one hundred   | ʌnʒɛðʌvl (ten-ten)      |
+| two hundred   | ðʊʒɛðʌvl (two-ten-ten)  |
+| six hundred   | ʌnfiʒɛðʌvl              |
+| seven hundred | ðʊfiʒɛðʌvl              |
+| eight hundred | θɛfiʒɛðʌvl              |
+| nine hundred  | fɑɹfiʒɛðʌvl             |
 | one thousand  | ʌnʒɛθɹivl (ten-ten-ten) |
 
 Of course, it's the same thing beyond one hundred and so on.
 
 For example, the structure for 420 would be: <br>
-fɑɹ (four) + ʌnʒɛðivl (hundred) + i (and) + ðʊʒɛ (twenty)
+fɑɹ (four) + ʌnʒɛðʌvl (hundred) + i (and) + ðʊʒɛ (twenty)

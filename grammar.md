@@ -2,9 +2,7 @@
 **WORK IN PROGRESS**
 
 ## Word Order
-This conlang uses OSV (Object-Subject-Verb). <!-- okay yoda --> <br>
-So basically, in English, "I have water" in Əlura would be: <br>:
- (Water I have). 
+This conlang uses OSV (Object-Subject-Verb). <!-- okay yoda -->
 
 ### Examples
 * "wæɹ mi-ɔvæ" | I have water.
@@ -18,7 +16,8 @@ So basically, in English, "I have water" in Əlura would be: <br>:
     * "əɹ" is are
 
 ## Prefixes
-**WORK IN PROGRESS**
+* "nɔu-" - The equivalent of "non-" in English
 
 ## Suffixes
 * "-s" - Indicates more than one / plural
+* "-ivl" - The equivalent of "-iple" in English
