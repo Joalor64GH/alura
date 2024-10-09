@@ -21,7 +21,6 @@
 ## ð
 * ðʊvɑsu - Animal
 * ðɛi - Day
-* ðʌvl - Double
 * ðiju - Earth, ground
 * ðɑns - Thanks
 * ðʌɹɪn - To drink
@@ -126,6 +125,7 @@
 * sʊɹɛ - It, its, it's
 * sɑn - Like
 * sɛ~ð - Sad
+* s~liθuɹ - Snake
 * suwɑɹ - Sky
 * sul - Sun
 * sɛvɛi - To know
