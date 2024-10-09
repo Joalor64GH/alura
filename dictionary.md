@@ -10,6 +10,7 @@
 ## æ
 * æjɛ~ɹu - Air
 * æmɛɹij - America
+* æijɑn - Appearance
 * æzul - Blue
 * æðu - Goodbye
 * æw - Red
@@ -19,9 +20,9 @@
 
 ## ð
 * ðʊvɑsu - Animal
+* ðɛi - Day
 * ðʌvl - Double
 * ðiju - Earth, ground
-* ðɛ - In
 * ðɑns - Thanks
 * ðʌɹɪn - To drink
 
@@ -54,7 +55,6 @@
 ## i
 * i - And
 * iŋɑn - Human
-* imuɹ - Day
 * ifu - If
 * in - In
 * isu~jɑ - To need
@@ -67,22 +67,24 @@
 
 ## j
 * jisʊ - By
+* jæfu - Fox
 * jæmʃi - To walk
+* jɔ~æi - Weak
 * jaði - Why
 * jil - Yellow
 * jɑ - Yes, correct
 
 ## l
 * lɛ - House, home
+* lɔŋ - Long
 * lævʊ - Love
 * lun - Moon
 * lɛŋɔ - Language
 * lif - Leaf
 * lɛ~v - To stand
-* liwʌ - Wide
 
 ## m
-* mæl - Bad
+* mæl - Bad, evil
 * miæu - Cat
 * mɛ~ɑ - Big, large
 * mi - I, me, mine
@@ -94,9 +96,8 @@
 
 ## n
 * nʊwɑɹu - Black
-* niʃi - Long
 * nəvɔu - New
-* nu~ðæ - Night
+* ni~ðæ - Night
 * njɛð - No, incorrect
 * nɔu - Not, non-
 * nul - Nothing
@@ -108,6 +109,7 @@
 * ŋɛ~u - Please, pleading
 
 ## ɔ
+* ɔmɔ - Homosexual
 * ɔnɑmi - Name
 * ɔɹɛn - Orange
 * ɔsɔ - That
@@ -118,6 +120,8 @@
 * ɹɑŋ - Round
 
 ## s
+* sui - Bird
+* sɛnt͡ʃuɹ - Century, hundred
 * sælu - Greeting (formal)
 * sʊɹɛ - It, its, it's
 * sɑn - Like
@@ -130,18 +134,22 @@
 
 ## ʃ
 * ʃæɔu - Sharp, ability to cut
+* ʃu - Tree
 * ʃɛ - What
 
 ## ʒ
 * ʒɛniðæɹ - Parent
+* ʒu~jɛi - Strong
 * ʒɔ - Which
 
 ## t͡ʃ
+* t͡ʃuɹæɔ~i - Song
 * t͡ʃi - Who
 * t͡ʃɔsu - World
 
 ## θ
 * θʊɛ~i - The
+* θin - Thin
 * θilu - To want
 
 ## u
@@ -168,11 +176,12 @@
 * ənɪf - She, her, hers
 
 ## v
+* vulu - Fish
 * vɛɹu - Green
 * væ~ð - Time
 * vʊɹ - To go
 * vɪsuɹɔ - To see
-* vil - Violet, Purple
+* vi~lɛ - Violet, Purple
 * vɔ~is - Voice
 * vit͡ʃu - White
 * vus - You all, yours (plural)
@@ -182,6 +191,7 @@
 * wiɛ~u - How
 * wæɹ - Water, wet
 * wɔʊ - Where
+* wizʌ - Wide
 * wuilu - Will
 * winzu - Wind
 

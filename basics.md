@@ -4,8 +4,8 @@ And it comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
-This language also uses a different order for phrases. <br>
-So, instead of SVO (Subject-Object-Verb) in English, Əlura uses OSV (Object-Subject-Verb). <!-- okay yoda -->
+This language also uses a different word order for phrases. <br>
+So, instead of SVO (Subject-Verb-Object) in English, Əlura uses OSV (Object-Subject-Verb). <!-- okay yoda -->
 
 Also, if you're only writing the actual letters, everything has to be in lowercase.
 
