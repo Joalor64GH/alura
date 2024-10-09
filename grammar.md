@@ -1,12 +1,11 @@
 # Grammar
-**WORK IN PROGRESS**
-
 ## Gramatically Allowed Syllables
-Any consonant combined with a vowel counts as a syllable. <br>
-Some consonsants combined with another consonant also counts as a syllable. <br>
-The same thing applies to a vowel combined with another vowel.
+These syllables are allowed: 
+* Any consonant combined with a vowel counts
+* Specific consonsants combined with another consonant
+    * Also applies to any vowel combined with another vowel
 
-However, I've deemed the following gramatically incorrect:
+The following are not allowed:
 * d͡ʒ + ð - There's literally no need
 * j + [any other consonant] - Just no
 * s + z, ʃ, ʒ - They make identical sounds
@@ -26,12 +25,17 @@ However, I've deemed the following gramatically incorrect:
     * "ðʊvɑsus" is animals
     * "ɛjɛi" is there
     * "əɹ" is are
+* ɑlɔu! wiɛ~u ɑsɛi-juɑ əɹ? | Hello! How are you doing? (Literal meaning: "Hello! How do you are?")
+    * "ɑlɔu" is an informal greeting
+    * "wiɛ~u" is how
+    * "ɑsɛi" is to do
+    * "juɑ" is you or yours
 
 ## Prefixes
 * "nɔu-" - The equivalent of "non-" in English
     * Example: "nɔu-iŋɑn" means "Non-human"
 * "mɛu-" - Indicating a higher degree
-    * Example: "mɛu-ðɑns" means "Many thanks" (Literal meaning: very thanks)
+    * Example: "mɛu-ðɑns" means "Many thanks" (Literal meaning: "Very thanks")
 
 ## Suffixes
 * "-s" - Indicates more than one / plural

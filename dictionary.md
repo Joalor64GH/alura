@@ -64,7 +64,6 @@
 * in - In
 * isu~jɑ - To need
 * iɛn - When
-* i~uɑ - You, yours
 
 ## ɪ
 * ɪɹʊ - Color
@@ -78,6 +77,7 @@
 * jaði - Why
 * jil - Yellow
 * jɑ - Yes, correct
+* juɑ - You, yours
 
 ## l
 * lɛ - House, home
