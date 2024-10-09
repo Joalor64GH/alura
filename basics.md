@@ -70,5 +70,5 @@ And 10 vowels:
 The tilde (`~`) is used to lengthen the sound of a letter.
 * In many languages, it's used to nasalize a sound.
 
-The macron (`-`) is used to link two words together, just like contractions in English.
+The macron (`-`) is used to link two words together, just like the apostrophe (`'`) in English.
 * In many languages, it's used to mark long sounds.

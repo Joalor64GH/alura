@@ -6,6 +6,8 @@
 * ɑvi - Happy
 * ɑ~si - Star
 * ɑsɛi - To do
+* ɑŋʒu - To help
+* ɑɔɹæ - To write
 
 ## æ
 * æjɛ~ɹu - Air
@@ -15,6 +17,7 @@
 * æðu - Goodbye
 * æw - Red
 * æjun - Some
+* ænu~jɛɹʊ - To walk
 * ævɛ - With
 * ænɛji - Year
 
@@ -56,6 +59,7 @@
 ## i
 * i - And
 * iŋɑn - Human
+* ifʊnɑsu - Hypnosis
 * ifu - If
 * in - In
 * isu~jɑ - To need
@@ -69,7 +73,7 @@
 ## j
 * jisʊ - By
 * jæfu - Fox
-* jæmʃi - To walk
+* jæmi - Paper
 * jɔ~æi - Weak
 * jaði - Why
 * jil - Yellow
@@ -135,7 +139,7 @@
 
 ## ʃ
 * ʃæɔu - Sharp, ability to cut
-* ʃu - Tree
+* ʃuri - Tree
 * ʃɛ - What
 
 ## ʒ
@@ -162,7 +166,7 @@
 
 ## ʌ
 * ʌ - A
-* ʌ~l - All
+* ʌ~l - All, everything
 * ʌjuvi - Birthday
 * ʌmis - To count
 
@@ -193,8 +197,10 @@
 * wɔʊ - Where
 * wizʌ - Wide
 * wuilu - Will
+* wuð
 * winzu - Wind
 
 ## z
 * zɔu - Did
 * zʊ~ɹmi - To sleep
+* zilɑ - Wood
