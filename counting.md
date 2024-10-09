@@ -42,8 +42,8 @@ We're basically out of numbers, so all we can do is simple repetition.
 
 | English       | Əlura                  |
 | :-----------: | :--------------------: |
-| one hundred   | ʌnʒɛʌnʒɛ (ten-ten)     |
-| two hundred   | ðʊʒɛʌnʒɛ (two-ten-ten) |
+| one hundred   | ʌnʒɛʌnʒɛ (ten and ten) |
+| two hundred   | ðʊʒɛʌnʒɛ               |
 | six hundred   | ʌnfiʒɛʌnʒɛ             |
 | seven hundred | ðʊfiʒɛʌnʒɛ             |
 | eight hundred | θɛfiʒɛʌnʒɛ             |
@@ -60,7 +60,11 @@ So it would look like: "fɑɹʒɛʌnʒɛi-ðʊʒɛ"
 As a quick bonus, we're not actually out of numbers. <br>
 We simply need to include a new unique number.
 
-| English      | Əlura      |
-| :----------: | :--------: |
-| one thousand | ʌnsɛnt͡ʃuɹi |
-| two thousand | ðʊsɛnt͡ʃuɹi |
+| English      | Əlura     |
+| :----------: | :-------: |
+| one thousand | ʌnsɛnt͡ʃuɹ |
+| two thousand | ðʊsɛnt͡ʃuɹ |
+
+## Year Example
+The year 2024 in Əlura would be written as:
+ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fɑɹ (two + thousand + and + twenty + and + four)
