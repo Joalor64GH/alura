@@ -7,8 +7,6 @@ And it comes with its own special writing system.
 This language also uses a different word order for phrases. <br>
 So, instead of SVO (Subject-Verb-Object) in English, Əlura uses OSV (Object-Subject-Verb). <!-- okay yoda -->
 
-Also, if you're only writing the actual letters, everything has to be in lowercase.
-
 ## Letters
 Note: Check out [ipachart.com](https://www.ipachart.com/) to hear how each letter sounds.
 
