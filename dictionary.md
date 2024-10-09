@@ -37,7 +37,9 @@
 * ɛɹv - Grass
 * ɛjɑ - Here
 * ɛs - Is
+* ɛulɔ - That
 * ɛjɛi - There
+* ɛusɔ - This
 * ɛliɔs - They, them, theirs
 * ɛin - To be
 
@@ -111,7 +113,6 @@
 * ɔmɔ - Homosexual
 * ɔnɑmi - Name
 * ɔɹɛn - Orange
-* ɔsɔ - That
 * ɔvæ - To have
 
 ## ɹ
@@ -156,7 +157,6 @@
 * umɔ - Cloud
 * u~ð - Good
 * u~ji - Old
-* ul - This
 * uɹu - To come
 * uŋwæ - To hear
 
