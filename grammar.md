@@ -1,10 +1,10 @@
 # Grammar
 **WORK IN PROGRESS**
 
-## Word Order
-This conlang uses OSV (Object-Subject-Verb). <!-- okay yoda -->
+## Gramatically Allowed Syllables
+Any consonant combined with a vowel counts as a syllable.
 
-### Examples
+## Sentence Examples
 * "wæɹ mi-ɔvæ" | I have water.
     * "wæɹ" is water
     * "ɔvæ" is have
@@ -23,4 +23,4 @@ This conlang uses OSV (Object-Subject-Verb). <!-- okay yoda -->
 
 ## Suffixes
 * "-s" - Indicates more than one / plural
-* "-ivl" - The equivalent of "-iple" in English
+* "-ʃæ~ɛu" - Indicating desparation

@@ -1,5 +1,5 @@
 # Counting
-I couldn't come up with any unique ideas, so Əlura uses a base 6 numbering system.
+Əlura uses a base 6 numbering system.
 
 ## Basic Numbers (0-10)
 | English      | Əlura                   |
@@ -36,15 +36,31 @@ This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 | seventy       | ðʊfiʒɛ                  |
 | eighty        | θɛfiʒɛ                  |
 | ninety        | fɑɹfiʒɛ                 |
-| one hundred   | ʌnʒɛðʌvl (ten-ten)      |
-| two hundred   | ðʊʒɛðʌvl (two-ten-ten)  |
-| six hundred   | ʌnfiʒɛðʌvl              |
-| seven hundred | ðʊfiʒɛðʌvl              |
-| eight hundred | θɛfiʒɛðʌvl              |
-| nine hundred  | fɑɹfiʒɛðʌvl             |
-| one thousand  | ʌnʒɛθɹivl (ten-ten-ten) |
 
-Of course, it's the same thing beyond one hundred and so on.
+## Beyond 99
+We're basically out of numbers, so all we can do is simple repetition.
+
+| English       | Əlura                   |
+| :-----------: | :---------------------: |
+| one hundred   | ʌnʒɛʌnʒɛ (ten-ten)      |
+| two hundred   | ðʊʒɛʌnʒɛ (two-ten-ten)  |
+| six hundred   | ʌnfiʒɛʌnʒɛ              |
+| seven hundred | ðʊfiʒɛʌnʒɛ              |
+| eight hundred | θɛfiʒɛʌnʒɛ              |
+| nine hundred  | fɑɹfiʒɛʌnʒɛ             |
+
+Of course, numbers past one hundred follow the same structure form earlier.
 
 For example, the structure for 420 would be: <br>
-fɑɹ (four) + ʌnʒɛðʌvl (hundred) + i (and) + ðʊʒɛ (twenty)
+fɑɹ (four) + ʌnʒɛʌnʒɛ (hundred) + i (and) + ðʊʒɛ (twenty)
+
+So it would look like: "fɑɹʒɛʌnʒɛi-ðʊʒɛ"
+
+## Beyond 999
+As a quick bonus, we're not actually out of numbers. <br>
+We simply need to include a new unique number.
+
+| English       | Əlura                   |
+| :-----------: | :---------------------: |
+| one thousand  | ʌnsɛnt͡ʃuɹi              |
+| two hundred   | ðʊsɛnt͡ʃuɹi              |

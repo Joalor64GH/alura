@@ -1,11 +1,13 @@
 # Əlura Basics
 Əlura uses only soft sounds in the English IPA. <br>
-It also has its own special writing system.
+And it comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
-Also, if you're only writing the actual letters, everything has to be in lowercase. <br>
-Each symbol is represented by its respective letter. See more below.
+This language also uses a different order for phrases. <br>
+So, instead of SVO (Subject-Object-Verb) in English, Əlura uses OSV (Object-Subject-Verb). <!-- okay yoda -->
+
+Also, if you're only writing the actual letters, everything has to be in lowercase.
 
 ## Letters
 Note: Check out [ipachart.com](https://www.ipachart.com/) to hear how each letter sounds.
@@ -25,23 +27,23 @@ And 10 vowels:
 | Approximant            |           |             |           | ɹ         |                   |       | w            | j       |
 | Lateral Approximant    |           |             |           | l         |                   |       |              |         |
 
-* /f/ as in *fish*
-* /v/ as in *van*
-* /θ/ as in *think*
 * /ð/ as in *this*
-* /s/ as in *see*
-* /z/ as in *zoo*
-* /ʃ/ as in *she*
-* /ʒ/ as in *measure*
+* /d͡ʒ/ as in *judge*
+* /f/ as in *fish*
+* /j/ as in *yes*
+* /l/ as in *light*
 * /m/ as in *man*
 * /n/ as in *no*
 * /ŋ/ as in *sing*
-* /l/ as in *light*
 * /ɹ/ as in *red*
-* /w/ as in *we*
-* /j/ as in *yes*
-* /d͡ʒ/ as in *judge*
+* /s/ as in *see*
+* /ʃ/ as in *she*
+* /ʒ/ as in *measure*
 * /t͡ʃ/ as in *church*
+* /θ/ as in *think*
+* /v/ as in *van*
+* /w/ as in *we*
+* /z/ as in *zoo*
 
 ### Vowels
 |                | Front        | Central       | Back         |
@@ -53,18 +55,20 @@ And 10 vowels:
 | Near-low       | æ            |               |              |
 | Low            |              |               | ɑ            |
 
-* /i/ as in *see*
-* /ɪ/ as in *bit*
-* /ɛ/ as in *bed*
 * /ɑ/ as in *father*
 * /æ/ as in *cat*
-* /ə/ as in *sofa*
-* /ʌ/ as in *cup*
+* /ɛ/ as in *bed*
+* /i/ as in *see*
+* /ɪ/ as in *bit*
 * /ɔ/ as in *thought*
 * /u/ as in *blue*
+* /ʌ/ as in *cup*
 * /ʊ/ as in *book*
+* /ə/ as in *sofa*
 
----
-
+### Special Characters
 The tilde (`~`) is used to lengthen the sound of a letter.
+* In many languages, it's used to nasalize a sound.
+
+The macron (`-`) is used to link two words together, just like contractions in English.
 * In many languages, it's used to nasalize a sound.

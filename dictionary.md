@@ -78,7 +78,6 @@
 * lun - Moon
 * lɛŋɔ - Language
 * lif - Leaf
-* livi - Sad
 * lɛ~v - To stand
 * liwʌ - Wide
 
@@ -122,6 +121,7 @@
 * sælu - Greeting (formal)
 * sʊɹɛ - It, its, it's
 * sɑn - Like
+* sɛ~ð - Sad
 * suwɑɹ - Sky
 * sul - Sun
 * sɛvɛi - To know
