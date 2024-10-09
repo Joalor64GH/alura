@@ -19,13 +19,13 @@ And 10 vowels:
 * ɑ, æ, ɛ, i, ɪ, ɔ, u, ʌ, ʊ, ə
 
 ### Consonants
-|                        | Bilabial  | Labiodental | Dental    | Alveolar  | Palato-alveolar   | Velar | Labial-velar | Palatal |
-| :-------------         | :-------: | :---------: | :-------: | :-------: | :---------------: | :---: | :----------: | :-----: |
-| Nasal                  | m         |             |           | n         |                   | ŋ     |              |         |
-| Fricative              |           | f, v        | θ, ð      | s, z      | ʃ, ʒ              |       |              |         |
-| Affricate              |           |             |           |           | t͡ʃ, d͡ʒ            |       |              |         |
-| Approximant            |           |             |           | ɹ         |                   |       | w            | j       |
-| Lateral Approximant    |           |             |           | l         |                   |       |              |         |
+|                     | Bilabial | Labiodental | Dental | Alveolar | Palato-alveolar | Velar | Labial-velar | Palatal |
+| :------------------ | :------: | :---------: | :----: | :------: | :-------------: | :---: | :----------: | :-----: |
+| Nasal               | m        |             |        | n        |                 | ŋ     |              |         |
+| Fricative           |          | f, v        | θ, ð   | s, z     | ʃ, ʒ            |       |              |         |
+| Affricate           |          |             |        |          | t͡ʃ, d͡ʒ          |       |              |         |
+| Approximant         |          |             |        | ɹ        |                 |       | w            | j       |
+| Lateral Approximant |          |             |        | l        |                 |       |              |         |
 
 * /ð/ as in *this*
 * /d͡ʒ/ as in *judge*
@@ -46,14 +46,14 @@ And 10 vowels:
 * /z/ as in *zoo*
 
 ### Vowels
-|                | Front        | Central       | Back         |
-| :------------- | :----------: | :-----------: | :----------: |
-| High           | i            |               | u            |
-| Near-high      | ɪ            |               | ʊ            |
-| Mid            |              | ə             |              |
-| Low-mid        | ɛ            |               | ʌ, ɔ         |
-| Near-low       | æ            |               |              |
-| Low            |              |               | ɑ            |
+|           | Front | Central | Back |
+| :-------- | :---: | :-----: | :--: |
+| High      | i     |         | u    |
+| Near-high | ɪ     |         | ʊ    |
+| Mid       |       | ə       |      |
+| Low-mid   | ɛ     |         | ʌ, ɔ |
+| Near-low  | æ     |         |      |
+| Low       |       |         | ɑ    |
 
 * /ɑ/ as in *father*
 * /æ/ as in *cat*
