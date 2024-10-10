@@ -1,6 +1,4 @@
 # Dictionary
-This document contains all of the words and verbs for this language.
-
 ## ɑ
 * ɑð - At
 * ɑuɔ - From
