@@ -1,4 +1,6 @@
 # Dictionary
+This document contains all of the words and verbs for this language.
+
 ## ɑ
 * ɑð - At
 * ɑuɔ - From
@@ -14,7 +16,7 @@
 * æmɛɹij - America
 * æijɑn - Appearance
 * æzul - Blue
-* æðu - Goodbye
+* æðu - Goodbye, to leave
 * æw - Red
 * æjun - Some
 * ænu~jɛɹʊ - To walk
@@ -59,7 +61,7 @@
 ## i
 * i - And
 * iŋɑn - Human
-* ifʊnɑsu - Hypnosis
+* ifʊnɑsu - Hypnosis, To hypnotize
 * ifu - If
 * in - In
 * isu~jɑ - To need
@@ -121,6 +123,7 @@
 
 ## ɹ
 * ɹɑd͡ʒi - Angry, rage
+* ɹɛnɛ - Any
 * ɹɑŋ - Round
 
 ## s
@@ -130,8 +133,8 @@
 * sʊɹɛ - It, its, it's
 * sɑn - Like
 * sɛ~ð - Sad
-* s~liθuɹ - Snake
 * suwɑɹ - Sky
+* s~liθuɹ - Snake
 * sul - Sun
 * sɛvɛi - To know
 * sɑjɛ - To say
@@ -161,6 +164,7 @@
 * umɔ - Cloud
 * u~ð - Good
 * u~ji - Old
+* umnʊ - Only
 * uɹu - To come
 * uŋwæ - To hear
 
@@ -176,6 +180,7 @@
 
 ## ə
 * əɹ - Are
+* əŋ - But
 * ənʌm - He, him, his
 * ənɪf - She, her, hers
 
@@ -187,7 +192,8 @@
 * vɪsuɹɔ - To see
 * vi~lɛ - Violet, Purple
 * vɔ~is - Voice
-* vit͡ʃu - White
+* vælumɔ - Welcome
+* vit͡ʃu - White, light
 * vus - You all, yours (plural)
 
 ## w
