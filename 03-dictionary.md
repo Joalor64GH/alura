@@ -8,6 +8,7 @@
 * ɑsɛi - To do
 * ɑŋʒu - To help
 * ɑɔɹæ - To write
+* ɑ~wu - Wolf
 
 ## æ
 * æjɛ~ɹu - Air
@@ -32,6 +33,7 @@
 * d͡ʒɑsə - Age
 * d͡ʒɹij - Dry
 * d͡ʒɑu - To give
+* d͡ʒɛŋ - War
 
 ## ɛ
 * ɛm - Am
@@ -95,6 +97,7 @@
 * mi - I, me, mine
 * mæsuli - Male, boy, man
 * mʊlði - Many, multiple
+* mʊ~u - Sheep
 * mɪ~ɔ - Small, tiny
 * mɑwʒ - To eat
 * mɛu - Very
@@ -110,6 +113,7 @@
 * nus - We, us, ours
 
 ## ŋ
+* ŋæ - Duck
 * ŋizu - To think
 * ŋɛ~u - Please, pleading
 
