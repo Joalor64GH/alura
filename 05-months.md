@@ -17,6 +17,16 @@
 ## Days of the Week
 **WIP**
 
+| English   | Əlura     |
+| :-------: | :-------: |
+| sunday    | sunðɛi    |
+| monday    | munðɛi    |
+| tuesday   | ðusðɛi    |
+| wednesday | wɛnsuðɛi  |
+| thursday  | θuɹsuðɛi  |
+| friday    | fɹiðɛi    |
+| saturday  | sæzuðɛi   |
+
 ## How to Write the Date
 **WIP**
 
