@@ -15,8 +15,6 @@
 | december  | ðisijɛmvɛ |
 
 ## Days of the Week
-**WIP**
-
 | English   | Əlura     |
 | :-------: | :-------: |
 | sunday    | sunðɛi    |
@@ -28,7 +26,15 @@
 | saturday  | sæzuðɛi   |
 
 ## How to Write the Date
-**WIP**
+Writing the date in Əlura follows the Year-Month-Day format. <br>
+For example, If you wanted to write June 30, 2025, it would look like:
+* "ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fiθ / juni / θɛʒɛ"
 
-Writing the date in Əlura follows this format: <br>
-[year]-[month]-[day]
+Or:
+
+* 2025 / 06 / 30
+
+You also have to option to add in a day of the week at the beginning. <br>
+That would look like:
+
+* "munðɛi, ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fiθ / juni / θɛʒɛ"
