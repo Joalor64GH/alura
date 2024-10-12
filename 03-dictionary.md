@@ -50,10 +50,12 @@
 
 ## f
 * fɹiɛ - Cold
+* fɛθɛɹu - Feather
 * fɛmuli - Female, girl, woman
 * fju - Few
 * fʊɹu - Fire, hot
 * flʊɹæ - Flower
+* fɔɹ - For
 * fɹi~zu - To freeze
 * fʊl - Full
 * fu~ɑ - Wow!
@@ -70,6 +72,7 @@
 ## ɪ
 * ɪɹʊ - Color
 * ɪsəs - Maybe
+* ɪʃæw - Shadow
 
 ## j
 * jisʊ - By
@@ -83,6 +86,7 @@
 
 ## l
 * lɛ - House, home
+* lumi - Light
 * lɔŋ - Long
 * lævʊ - Love
 * lun - Moon
@@ -113,6 +117,7 @@
 * nus - We, us, ours
 
 ## ŋ
+* ŋɑnsuwæjɛ - Constructed
 * ŋæ - Duck
 * ŋizu - To think
 * ŋɛ~u - Please, pleading
@@ -178,11 +183,13 @@
 
 ## ʊ
 * ʊn - An
+* ʊɹɔwæ - Europe
 * ʊθuɹ - Other
 
 ## ə
 * əɹ - Are
 * əŋ - But
+* əu - Egg
 * ənʌm - He, him, his
 * ənɪf - She, her, hers
 
@@ -195,7 +202,7 @@
 * vi~lɛ - Violet, Purple
 * vɔ~is - Voice
 * vælumɔ - Welcome
-* vit͡ʃu - White, light
+* vit͡ʃu - White
 * vus - You all, yours (plural)
 
 ## w
@@ -209,6 +216,7 @@
 * winzu - Wind
 
 ## z
+* ziŋɑwæi - Dark
 * zɔu - Did
 * zʊ~ɹmi - To sleep
 * zilɑ - Wood

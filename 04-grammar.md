@@ -19,11 +19,11 @@ The following are not allowed:
 * w + l - Slippery and inconsistent in tone.
 
 ## Sentence Examples
-* "wæɹ mi-ɔvæ" | I have water.
+* "wæɹ mi-ɔvæ." | I have water.
     * "wæɹ" is water
     * "ɔvæ" is have
     * "mi" is I or me
-* "ðʊ ðʊvɑsus ɛjɛi əɹ" | There are two animals.
+* "ðʊ ðʊvɑsus ɛjɛi əɹ." | There are two animals.
     * "ðʊ" is two
     * "ðʊvɑsus" is animals
     * "ɛjɛi" is there
@@ -48,3 +48,7 @@ The following are not allowed:
     * Example: "wæɹ-mɑ" means "Water droplet" (Literal meaning: "Small water")
 * "-s" - Indicates more than one / plural
 * "-ʃæ~ɛu" - Indicating desparation
+
+## Accent Rules
+**WIP** <br>
+More info for the grave and acute accents will be added.

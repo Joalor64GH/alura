@@ -9,4 +9,4 @@ I am pretty new to this, so feel free to give some feedback or whatever!
 * [Counting](./02-counting.md)
 * [Dictionary](./03-dictionary.md)
 * [Grammar](./04-grammar.md)
-* [Months](./05-months.md)
+* [Months and Days](./05-months-and-days.md)

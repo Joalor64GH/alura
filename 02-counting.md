@@ -1,5 +1,5 @@
 # Counting
-Əlura uses a base 6 numbering system.
+Əlura uses a modified base 10 system based on combinations of numbers.
 
 ## Basic Numbers (0-10)
 | English | Əlura                   |
@@ -66,5 +66,5 @@ We simply need to include a new unique number.
 | two thousand | ðʊsɛnt͡ʃuɹ |
 
 ## Year Example
-The year 2024 in Əlura would be written as:
+The year "2024" in Əlura would be written as:
 ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fɑɹ (two + thousand + and + twenty + and + four)
