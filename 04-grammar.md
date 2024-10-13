@@ -28,9 +28,9 @@ The following are not allowed:
     * "ðʊvɑsus" is animals
     * "ɛjɛi" is there
     * "əɹ" is are
-* ɑlɔu! wiɛ~u ɑsɛi-juɑ əɹ? | Hello! How are you doing? (Literal meaning: "Hello! How do you are?")
+* ɑlɔu! wiɛ̃u ɑsɛi-juɑ əɹ? | Hello! How are you doing? (Literal meaning: "Hello! How do you are?")
     * "ɑlɔu" is an informal greeting
-    * "wiɛ~u" is how
+    * "wiɛ̃u" is how
     * "ɑsɛi" is to do
     * "juɑ" is you or yours
 
@@ -49,6 +49,12 @@ The following are not allowed:
 * "-s" - Indicates more than one / plural
 * "-ʃæ~ɛu" - Indicating desparation
 
-## Accent Rules
-**WIP** <br>
-More info for the grave and acute accents will be added.
+## Accent Markers
+* Grave accent (`` ` ``) - Softens the tone of a word / gives a words a more relaxed meaning
+    * Example: "sul" becomes "sùl", which refers to a calmer or fading sun (sunset)
+
+* Acute accent (`´`) - Adds a gentle emphasis without being harsh / slight increase in importance
+    * Example: "mɛu-ðɑ́ns" means "Many thanks", but with more emotion/gratitude
+
+Words that change in tone depending on the context can include either accent to reflect this. <br>
+Depending on the context, accents can transform neutral words into those carrying emotional weight.

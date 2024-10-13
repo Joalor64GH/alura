@@ -4,21 +4,21 @@
 * ɑuɔ - From
 * ɑlɔu - Greeting (informal)
 * ɑvi - Happy
-* ɑ~si - Star
+* ɑ̃si - Star
 * ɑsɛi - To do
 * ɑŋʒu - To help
 * ɑɔɹæ - To write
-* ɑ~wu - Wolf
+* ɑ̃wu - Wolf
 
 ## æ
-* æjɛ~ɹu - Air
+* æjɛ̃ɹu - Air
 * æmɛɹij - America
 * æijɑn - Appearance
 * æzul - Blue
 * æðu - Goodbye, to leave
 * æw - Red
 * æjun - Some
-* ænu~jɛɹʊ - To walk
+* ænũjɛɹʊ - To walk
 * ævɛ - With
 * ænɛji - Year
 
@@ -56,9 +56,9 @@
 * fʊɹu - Fire, hot
 * flʊɹæ - Flower
 * fɔɹ - For
-* fɹi~zu - To freeze
+* fɹĩzu - To freeze
 * fʊl - Full
-* fu~ɑ - Wow!
+* fũɑ - Wow!
 
 ## i
 * i - And
@@ -66,7 +66,7 @@
 * ifʊnɑsu - Hypnosis, To hypnotize
 * ifu - If
 * in - In
-* isu~jɑ - To need
+* isũjɑ - To need
 * iɛn - When
 
 ## ɪ
@@ -78,7 +78,7 @@
 * jisʊ - By
 * jæfu - Fox
 * jæmi - Paper
-* jɔ~æi - Weak
+* jɔ̃æi - Weak
 * jaði - Why
 * jil - Yellow
 * jɑ - Yes, correct
@@ -92,24 +92,24 @@
 * lun - Moon
 * lɛŋɔ - Language
 * lif - Leaf
-* lɛ~v - To stand
+* lɛ̃v - To stand
 
 ## m
 * mæl - Bad, evil
 * miæu - Cat
-* mɛ~ɑ - Big, large
+* mɛ̃ɑ - Big, large
 * mi - I, me, mine
 * mæsuli - Male, boy, man
 * mʊlði - Many, multiple
-* mʊ~u - Sheep
-* mɪ~ɔ - Small, tiny
+* mʊ̃u - Sheep
+* mɪ̃ɔ - Small, tiny
 * mɑwʒ - To eat
 * mɛu - Very
 
 ## n
 * nʊwɑɹu - Black
 * nəvɔu - New
-* ni~ðæ - Night
+* nĩðæ - Night
 * njɛð - No, incorrect
 * nɔu - Not, non-
 * nul - Nothing
@@ -120,7 +120,7 @@
 * ŋɑnsuwæjɛ - Constructed
 * ŋæ - Duck
 * ŋizu - To think
-* ŋɛ~u - Please, pleading
+* ŋɛ̃u - Please, pleading
 
 ## ɔ
 * ɔmɔ - Homosexual
@@ -139,13 +139,13 @@
 * sælu - Greeting (formal)
 * sʊɹɛ - It, its, it's
 * sɑn - Like
-* sɛ~ð - Sad
+* sɛ̃ð - Sad
 * suwɑɹ - Sky
-* s~liθuɹ - Snake
+* s̃liθuɹ - Snake
 * sul - Sun
 * sɛvɛi - To know
 * sɑjɛ - To say
-* si~z - To sit
+* sĩz - To sit
 
 ## ʃ
 * ʃæɔu - Sharp, ability to cut
@@ -154,30 +154,30 @@
 
 ## ʒ
 * ʒɛniðæɹ - Parent
-* ʒu~jɛi - Strong
+* ʒũjɛi - Strong
 * ʒɔ - Which
 
 ## t͡ʃ
-* t͡ʃuɹæɔ~i - Song
+* t͡ʃuɹæɔ̃i - Song
 * t͡ʃi - Who
 * t͡ʃɔsu - World
 
 ## θ
-* θʊɛ~i - The
+* θʊɛ̃i - The
 * θin - Thin
 * θilu - To want
 
 ## u
 * umɔ - Cloud
-* u~ð - Good
-* u~ji - Old
+* ũð - Good
+* ũji - Old
 * umnʊ - Only
 * uɹu - To come
 * uŋwæ - To hear
 
 ## ʌ
 * ʌ - A
-* ʌ~l - All, everything
+* ʌ̃l - All, everything
 * ʌjuvi - Birthday
 * ʌmis - To count
 
@@ -196,18 +196,18 @@
 ## v
 * vulu - Fish
 * vɛɹu - Green
-* væ~ð - Time
+* væ̃ð - Time
 * vʊɹ - To go
 * vɪsuɹɔ - To see
-* vi~lɛ - Violet, Purple
-* vɔ~is - Voice
+* vĩlɛ - Violet, Purple
+* vɔ̃is - Voice
 * vælumɔ - Welcome
 * vit͡ʃu - White
 * vus - You all, yours (plural)
 
 ## w
 * wuf - Dog
-* wiɛ~u - How
+* wiɛ̃u - How
 * wæɹ - Water, wet
 * wɔʊ - Where
 * wizʌ - Wide
@@ -218,5 +218,5 @@
 ## z
 * ziŋɑwæi - Dark
 * zɔu - Did
-* zʊ~ɹmi - To sleep
+* zʊ̃ɹmi - To sleep
 * zilɑ - Wood

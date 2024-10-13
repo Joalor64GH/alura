@@ -2,8 +2,7 @@
 Əlura uses only soft sounds in the English IPA. <br>
 This basically means that harsh or sharp phonemes are completely avoided.
 
-It also comes with its own special writing system. <br>
-The letters are designed to flow smoothly like the language itself.
+It also comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
@@ -67,18 +66,9 @@ And 10 vowels:
 
 To hear how each letter sounds, check out [ipachart.com](https://www.ipachart.com/).
 
-### Special Characters
+## Special Characters
 The tilde (`~`) is used to lengthen the sound of a letter.
 * In many languages, it's used to nasalize a sound.
 
 The macron (`-`) is used to link two words together, just like the apostrophe (`'`) in English.
 * In many languages, it's used to mark long sounds.
-
-## Accent Markers
-The grave accent (`` ` ``) is used to soften the tone of a word.
-* This has many uses in most western European languages.
-
-The acute accent (`´`) is used to add a gentle emphasis.
-* This has many uses in most modern Latin, Cyrillic, and Greek scripts.
-
-For info on how to use these, check out [Grammar](./04-grammar.md).
