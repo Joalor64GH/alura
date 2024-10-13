@@ -1,22 +1,25 @@
 # Grammar
 ## Gramatically Allowed Syllables
 These syllables are allowed: 
-* Any consonant combined with a vowel
-* Specific consonsants combined with another consonant
-    * Also applies to any vowel combined with another vowel
+* Any consonant combined with a vowel (CV or VC)
+* Specific consonsants combined with another consonant (CC)
+    * Also applies to any vowel combined with another vowel (VV or VVV)
+* Any consonant with a vowel and another consonant (CVC)
+    * Can also be the other way around (VCV)
 
 The following are not allowed:
-* d͡ʒ + ð - There's literally no need
-* j + [any other consonant] - Just no
+* d͡ʒ + ð - Unnecessary
+* j + [any other consonant] - Don't work well
 * s + z, ʃ, ʒ, θ - They make identical sounds
-* t͡ʃ + ʃ - Really?
-* ŋ + j - I don't like it 
-* v + w - It just doesn't seem right
-* [any consonant] + [the same consonant] - Found this one while making the counting system
-* ð + ŋ - It's hard to pronounce them together
-* ŋ + θ - Same as above
-* f + v - Just an awkard combination
-* w + l - Slippery and inconsistent in tone.
+* t͡ʃ + ʃ - Redundant
+* ŋ + j - Unpleasant
+* v + w - Feels off
+* [same consonant twice] - Found this while making the counting system
+* ð + ŋ / ŋ + θ - Hard to pronounce
+* f + v - Awkward pairing
+* w + l - Slippery and inconsistent
+
+More will be documented if found.
 
 ## Sentence Examples
 * "wæɹ mi-ɔvæ." | I have water.
@@ -47,14 +50,17 @@ The following are not allowed:
 * "-mɑ" - Indicating a smaller degree
     * Example: "wæɹ-mɑ" means "Water droplet" (Literal meaning: "Small water")
 * "-s" - Indicates more than one / plural
-* "-ʃæ~ɛu" - Indicating desparation
+* "-ʃæ̃ɛu" - Indicating desparation
 
 ## Accent Markers
+### Sound Lengthening
+* Tilde (`~`) - Lengthens the sound of a letter
+
+### Tone Modulation
 * Grave accent (`` ` ``) - Softens the tone of a word / gives a words a more relaxed meaning
     * Example: "sul" becomes "sùl", which refers to a calmer or fading sun (sunset)
-
 * Acute accent (`´`) - Adds a gentle emphasis without being harsh / slight increase in importance
     * Example: "mɛu-ðɑ́ns" means "Many thanks", but with more emotion/gratitude
 
 Words that change in tone depending on the context can include either accent to reflect this. <br>
-Depending on the context, accents can transform neutral words into those carrying emotional weight.
+Depending on the context, these accents can transform neutral words into those carrying emotional weight.

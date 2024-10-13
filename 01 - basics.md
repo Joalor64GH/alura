@@ -1,7 +1,5 @@
 # Əlura Basics
-Əlura uses only soft sounds in the English IPA. <br>
-This basically means that harsh or sharp phonemes are completely avoided.
-
+Əlura uses only soft sounds in the English IPA, so harsh or sharp phonemes are completely avoided.
 It also comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
@@ -66,9 +64,5 @@ And 10 vowels:
 
 To hear how each letter sounds, check out [ipachart.com](https://www.ipachart.com/).
 
-## Special Characters
-The tilde (`~`) is used to lengthen the sound of a letter.
-* In many languages, it's used to nasalize a sound.
-
+## Special Character
 The macron (`-`) is used to link two words together, just like the apostrophe (`'`) in English.
-* In many languages, it's used to mark long sounds.
