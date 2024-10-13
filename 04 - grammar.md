@@ -57,7 +57,7 @@ More will be documented if found.
 * Tilde (`~`) - Lengthens the sound of a letter
 
 ### Tone Modulation
-* Grave accent (`` ` ``) - Softens the tone of a word / gives a words a more relaxed meaning
+* Grave accent (`` ` ``) - Softens the tone of a word / gives a more relaxed meaning
     * Example: "sul" becomes "sùl", which refers to a calmer or fading sun (sunset)
 * Acute accent (`´`) - Adds a gentle emphasis without being harsh / slight increase in importance
     * Example: "mɛu-ðɑ́ns" means "Many thanks", but with more emotion/gratitude
