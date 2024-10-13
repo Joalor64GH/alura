@@ -25,6 +25,7 @@
 ## ð
 * ðʊvɑsu - Animal
 * ðɛi - Day
+* ðisɑjæ - Dystopia
 * ðiju - Earth, ground
 * ðɑns - Thanks
 * ðʌɹɪn - To drink
@@ -50,6 +51,7 @@
 
 ## f
 * fɹiɛ - Cold
+* fɑ̃l - Fall
 * fɛθɛɹu - Feather
 * fɛmuli - Female, girl, woman
 * fju - Few
@@ -97,10 +99,12 @@
 ## m
 * mæl - Bad, evil
 * miæu - Cat
+* m̃ũ - Cow
 * mɛ̃ɑ - Big, large
 * mi - I, me, mine
 * mæsuli - Male, boy, man
 * mʊlði - Many, multiple
+* mɑnðɛ - Month
 * mʊ̃u - Sheep
 * mɪ̃ɔ - Small, tiny
 * mɑwʒ - To eat
@@ -111,6 +115,7 @@
 * nəvɔu - New
 * nĩðæ - Night
 * njɛð - No, incorrect
+* nɑɔ - Now, current
 * nɔu - Not, non-
 * nul - Nothing
 * numɛ - Number
@@ -174,6 +179,7 @@
 * umnʊ - Only
 * uɹu - To come
 * uŋwæ - To hear
+* usɑjæ - Utopia
 
 ## ʌ
 * ʌ - A
@@ -201,6 +207,7 @@
 * vɪsuɹɔ - To see
 * vĩlɛ - Violet, Purple
 * vɔ̃is - Voice
+* viŋæ - Week
 * vælumɔ - Welcome
 * vit͡ʃu - White
 * vus - You all, yours (plural)
@@ -212,7 +219,6 @@
 * wɔʊ - Where
 * wizʌ - Wide
 * wuilu - Will
-* wuð
 * winzu - Wind
 
 ## z
