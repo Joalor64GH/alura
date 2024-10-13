@@ -1,5 +1,5 @@
 # Əlura Basics
-Əlura uses only soft sounds in the English IPA, so harsh or sharp phonemes are completely avoided.
+Əlura uses only soft sounds in the English IPA, so harsh or sharp phonemes are completely avoided. <br>
 It also comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
