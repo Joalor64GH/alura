@@ -68,6 +68,7 @@
 * ifʊnɑsu - Hypnosis, To hypnotize
 * ifu - If
 * in - In
+* isɛiði - Out
 * isũjɑ - To need
 * iɛn - When
 
@@ -108,6 +109,7 @@
 * mʊ̃u - Sheep
 * mɪ̃ɔ - Small, tiny
 * mɑwʒ - To eat
+* mɛðæfuɹɛsu - Translate, translation, to translate
 * mɛu - Very
 
 ## n
