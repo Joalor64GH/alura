@@ -5,7 +5,7 @@
 | january   | ʒɛnuɹi    |
 | february  | fɛvuɹi    |
 | march     | mæɹzɔu    |
-| april     | ɑu~ɹil    |
+| april     | ɑũɹil     |
 | may       | mæjæ      |
 | june      | juni      |
 | july      | jʊli      |
@@ -21,7 +21,7 @@ But if a month has 5 or less letters, use the first two letters instead.
 
 Examples:
 * ʒɛnuɹi → ʒɛn.
-* ɑu~ɹil → ɑũ.
+* ɑũɹil → ɑũ.
 
 ## Days of the Week
 | English   | Əlura     |
