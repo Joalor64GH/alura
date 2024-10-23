@@ -16,6 +16,7 @@
 * æijɑn - Appearance
 * æzul - Blue
 * æðu - Goodbye, to leave
+* ælvɔru - Real
 * æw - Red
 * æjun - Some
 * ænũjɛɹʊ - To walk
@@ -38,6 +39,7 @@
 
 ## ɛ
 * ɛm - Am
+* ɛʒɔu - Asia
 * ɛɹt͡ʃɛ - Because
 * ɛŋlɑ - English
 * ɛɹv - Grass
@@ -76,6 +78,7 @@
 * ɪɹʊ - Color
 * ɪsəs - Maybe
 * ɪʃæw - Shadow
+* ɪɹɔmæði - Spicy
 
 ## j
 * jisʊ - By
@@ -127,6 +130,7 @@
 * ŋɑnsuwæjɛ - Constructed
 * ŋæ - Duck
 * ŋizu - To think
+* ŋɔmɛŋ - Sorry, To apologize
 * ŋɛ̃u - Please, pleading
 
 ## ɔ
@@ -138,6 +142,7 @@
 ## ɹ
 * ɹɑd͡ʒi - Angry, rage
 * ɹɛnɛ - Any
+* ɹɛvʊ - Frog
 * ɹɑŋ - Round
 
 ## s
@@ -155,6 +160,7 @@
 * sĩz - To sit
 
 ## ʃ
+* ʃiʃi - Shake
 * ʃæɔu - Sharp, ability to cut
 * ʃuri - Tree
 * ʃɛ - What
