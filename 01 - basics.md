@@ -23,23 +23,23 @@ And 10 vowels:
 | Approximant         |          |             |        | ɹ        |                 |       | w            | j       |
 | Lateral Approximant |          |             |        | l        |                 |       |              |         |
 
-* /ð/ as in *this*
-* /d͡ʒ/ as in *judge*
-* /f/ as in *fish*
-* /j/ as in *yes*
-* /l/ as in *light*
-* /m/ as in *man*
-* /n/ as in *no*
-* /ŋ/ as in *sing*
-* /ɹ/ as in *red*
-* /s/ as in *see*
-* /ʃ/ as in *she*
-* /ʒ/ as in *measure*
-* /t͡ʃ/ as in *church*
-* /θ/ as in *think*
-* /v/ as in *van*
-* /w/ as in *we*
-* /z/ as in *zoo*
+* /ð/ as in ***th**is*
+* /d͡ʒ/ as in ***j**udge*
+* /f/ as in ***f**ish*
+* /j/ as in ***y**es*
+* /l/ as in ***l**ight*
+* /m/ as in ***m**an*
+* /n/ as in ***n**o*
+* /ŋ/ as in *si**ng***
+* /ɹ/ as in ***r**ed*
+* /s/ as in ***s**ee*
+* /ʃ/ as in ***sh**e*
+* /ʒ/ as in *mea**s**ure*
+* /t͡ʃ/ as in ***ch**urch*
+* /θ/ as in ***th**ink*
+* /v/ as in ***v**an*
+* /w/ as in ***w**e*
+* /z/ as in ***z**oo*
 
 ### Vowels
 |           | Front | Central | Back |
@@ -51,16 +51,16 @@ And 10 vowels:
 | Near-low  | æ     |         |      |
 | Low       |       |         | ɑ    |
 
-* /ɑ/ as in *father*
-* /æ/ as in *cat*
-* /ɛ/ as in *bed*
-* /i/ as in *see*
-* /ɪ/ as in *bit*
-* /ɔ/ as in *thought*
-* /u/ as in *blue*
-* /ʌ/ as in *cup*
-* /ʊ/ as in *book*
-* /ə/ as in *sofa*
+* /ɑ/ as in ***f**ather*
+* /æ/ as in *c**a**t*
+* /ɛ/ as in *b**e**d*
+* /i/ as in *s**ee***
+* /ɪ/ as in *b**i**t*
+* /ɔ/ as in *th**ou**ght*
+* /u/ as in *bl**ue***
+* /ʌ/ as in *c**u**p*
+* /ʊ/ as in *b**oo**k*
+* /ə/ as in *sof**a***
 
 To hear how each letter sounds, check out [ipachart.com](https://www.ipachart.com/).
 
