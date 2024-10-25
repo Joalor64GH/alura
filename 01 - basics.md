@@ -5,7 +5,7 @@ It also comes with its own special writing system.
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
 This language also uses a different word order for phrases. <br>
-So, instead of SVO (Subject-Verb-Object) in English, Əlura uses OSV (Object-Subject-Verb). <!-- okay yoda -->
+So, instead of SVO (Subject-Verb-Object) in English, Əlura uses OSV (Object-Subject-Verb).
 
 ## Letters
 This language has 17 consonants:

@@ -27,7 +27,7 @@
 * ðʊvɑsu - Animal
 * ðɛi - Day
 * ðisɑjæ - Dystopia
-* ðiju - Earth, ground
+* ðiju - Earth, ground, land
 * ðɑns - Thanks
 * ðʌɹɪn - To drink
 
@@ -66,6 +66,7 @@
 
 ## i
 * i - And
+* isʊðɔɹiæ - History
 * iŋɑn - Human
 * ifʊnɑsu - Hypnosis, To hypnotize
 * ifu - If
@@ -76,6 +77,8 @@
 
 ## ɪ
 * ɪɹʊ - Color
+* ɪ̃ljʊ - Island
+* ɪ̃ljʌ - Isle
 * ɪsəs - Maybe
 * ɪʃæw - Shadow
 * ɪɹɔmæði - Spicy
@@ -166,16 +169,19 @@
 * ʃɛ - What
 
 ## ʒ
+* ʒiɑ - Asia
 * ʒɛniðæɹ - Parent
 * ʒũjɛi - Strong
 * ʒɔ - Which
 
 ## t͡ʃ
+* t͡ʃæ̃næ - China
 * t͡ʃuɹæɔ̃i - Song
 * t͡ʃi - Who
 * t͡ʃɔsu - World
 
 ## θ
+* θɑlæsɑ - Sea, ocean
 * θʊɛ̃i - The
 * θin - Thin
 * θilu - To want
@@ -199,9 +205,11 @@
 * ʊn - An
 * ʊɹɔwæ - Europe
 * ʊθuɹ - Other
+* ʊt͡ʃ - Ouch!
 
 ## ə
 * əɹ - Are
+* əlʊɹɑ - Alura
 * əŋ - But
 * əu - Egg
 * ənʌm - He, him, his
