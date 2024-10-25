@@ -51,7 +51,7 @@ And 10 vowels:
 | Near-low  | æ     |         |      |
 | Low       |       |         | ɑ    |
 
-* /ɑ/ as in ***f**ather*
+* /ɑ/ as in *f**a**ther*
 * /æ/ as in *c**a**t*
 * /ɛ/ as in *b**e**d*
 * /i/ as in *s**ee***
